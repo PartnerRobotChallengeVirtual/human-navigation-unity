@@ -7,6 +7,9 @@ Assets/Competition/HumanNaviPreEvent2018/HumanNavi201805WithoutFinalIK.unity
 Assets/Competition/HumanNaviPreEvent2018/HumanNavi201805LayoutWithoutFinalIK.unity  
 (There are config files at SIGVerseConfig/HumanNavi/sample/forHumanNavi201805Layout)
 
+Please add ConsoleSimpleTTS.exe and Interop.SpeechLib.dll to TTS folder for speech synthesis.
+https://github.com/PartnerRobotChallengeVirtual/console-simple-tts
+
 ---
 
 # Human Navigation Project
