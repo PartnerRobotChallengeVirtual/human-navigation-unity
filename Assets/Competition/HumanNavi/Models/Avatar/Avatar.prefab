@@ -5672,7 +5672,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Put it in a trash can on the left.
+  m_Text: Please take a cup next to the kitchen sink.
 --- !u!114 &114917670321554302
 MonoBehaviour:
   m_ObjectHideFlags: 1
