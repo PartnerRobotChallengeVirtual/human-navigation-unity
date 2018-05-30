@@ -7,6 +7,9 @@ Assets/Competition/HumanNaviPreEvent2018/HumanNavi201805.unity
 Assets/Competition/HumanNaviPreEvent2018/HumanNavi201805Layout.unity  
 (The config file for this Unity scene in SIGVerseConfig/HumanNavi/sample/forHumanNavi201805Layout)
 
+Please add ConsoleSimpleTTS.exe and Interop.SpeechLib.dll to TTS folder for speech synthesis.
+https://github.com/PartnerRobotChallengeVirtual/console-simple-tts
+
 ---
 
 # Human Navigation Project
