@@ -5,7 +5,7 @@
 Assets/Competition/HumanNaviPreEvent2018/HumanNavi201805WithoutFinalIK.unity
 - Unity scene for confirming layouts in advance  
 Assets/Competition/HumanNaviPreEvent2018/HumanNavi201805LayoutWithoutFinalIK.unity  
-(There are config files at SIGVerseConfig/HumanNavi/sample/forLayout)
+(There are config files at SIGVerseConfig/HumanNavi/sample/forHumanNavi201805Layout)
 
 ---
 
