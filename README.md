@@ -1,3 +1,14 @@
+### This branch has resources of an event held in May 2018 to verify the contents of WRS2018.
+(Note: FinalIK asset is required in this branch.)
+
+- Unity scene used in the event  
+Assets/Competition/HumanNaviPreEvent2018/HumanNavi201805.unity
+- Unity scene for confirming layouts in advance  
+Assets/Competition/HumanNaviPreEvent2018/HumanNavi201805Layout.unity  
+(The config file for this Unity scene in SIGVerseConfig/HumanNavi/sample/forHumanNavi201805Layout)
+
+---
+
 # Human Navigation Project
 
 This is a Unity project for the competition of Human Navigation task of the Partner Robot Challenge (Virtual Space) in the World Robot Competition.
