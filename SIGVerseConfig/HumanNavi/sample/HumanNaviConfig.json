@@ -4,7 +4,7 @@
 	"sessionTimeLimit":"180",
 	"recoverUsingScoreFile": false,
 	"maxNumberOfTrials": 28,
-	"playbackType": 0,
+	"playbackType": 1,
 	"taskInfoList":[
 		{"environment":"LayoutHN01#01","target":"tumblerglass_c02#02","destination":"destination#01"},
 		{"environment":"LayoutHN02#01","target":"cup_c02#01","destination":"destination#01"},

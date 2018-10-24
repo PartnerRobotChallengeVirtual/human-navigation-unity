@@ -4,4 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Competition/HumanNavi/WRS2018/With SimpleIK/HumanNavi_wrs2018 (SimpleIK
+      - withoutStereoCamera).unity
+    guid: 48c4c225c25bc8e48b0c23f71849616c
